@@ -6,5 +6,9 @@
   "cssTests": {
     "link":"http://ct.qzqp.tk/",
     "desc":"CSS and JavaScript user interface, animation, and other concept tests."
+  },
+  "quickImage": {
+    "link":"http://qi.qzqp.tk/",
+    "desc":"A simple, fast no-nonsense image hosting solution."
   }
 }
