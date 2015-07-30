@@ -10,5 +10,9 @@
   "quickImage": {
     "link":"http://qi.qzqp.tk/",
     "desc":"A simple, fast no-nonsense image hosting solution."
+  },
+  "qrow": {
+    "link":"http://qr.qzqp.tk/",
+    "desc":"A fast, no-frills URL shortener at qrow.ga."
   }
 }
