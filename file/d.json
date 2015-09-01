@@ -14,5 +14,9 @@
   "qrow": {
     "link":"http://qr.qzqp.tk/",
     "desc":"A fast, no-frills URL shortener at qrow.ga."
+  },
+  "smdr": {
+    "link": "http://smdr.qzqp.tk/",
+    "desc":"A MarkDown print renderer built on PageDown."
   }
 }
